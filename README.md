@@ -1,6 +1,6 @@
 # 'Fork me on GitHub' SVG ribbons
 
-Fork me on GitHub ribbons (<a href="https://github.blog/2008-12-19-github-ribbons/">source</a>) in SVG format for retina displays.
+'Fork me on GitHub' ribbons (<a href="https://github.blog/2008-12-19-github-ribbons/">as introduced here</a>) in SVG format for retina displays.
 
 <img src="images/forkme_left_red_aa0000.svg">
 
