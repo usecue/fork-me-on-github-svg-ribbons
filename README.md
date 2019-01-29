@@ -1,4 +1,4 @@
-# GitHub Ribbons
+# SVG GitHub Ribbons
 
 Fork me on GitHub ribbons (<a href="https://github.blog/2008-12-19-github-ribbons/">source</a>) in SVG format for retina displays.
 
