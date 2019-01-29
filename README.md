@@ -1,30 +1,33 @@
-<style>
-body {font-family: sans-serif; }
-h1 { font-size: 40px;}
-.single-column { max-width: 50em; margin: 0 auto;}
-</style>
+# GitHub Ribbons
 
-        <h1>GitHub Ribbons</h1>
-        <p>Fork me on GitHub ribbons (<a href="https://github.blog/2008-12-19-github-ribbons/">source</a>) in SVG format for retina displays.</p>
-                                                                          <img src="images/forkme_left_red_aa0000.svg">
-            <textarea style="background-color: #eee;border:none;margin:5px;padding:10px;width:300px;height:129px;resize:none;">&lt;a
+Fork me on GitHub ribbons (<a href="https://github.blog/2008-12-19-github-ribbons/">source</a>) in SVG format for retina displays.
+
+<img src="images/forkme_left_red_aa0000.svg">
+
+&lt;a
  href="https://github.com/you"&gt;&lt;img 
 src="forkme_left_red_aa0000.svg" style="position:absolute;top:0;left:0;"
- alt="Fork me on GitHub"&gt;&lt;/a&gt;</textarea><br>
-                                          <img src="images/forkme_left_green_007200.svg">
-            <textarea style="background-color: #eee;border:none;margin:5px;padding:10px;width:300px;height:129px;resize:none;">&lt;a
+ alt="Fork me on GitHub"&gt;&lt;/a&gt;
+ 
+<img src="images/forkme_left_green_007200.svg">
+
+&lt;a
  href="https://github.com/you"&gt;&lt;img 
 src="forkme_left_green_007200.svg" 
 style="position:absolute;top:0;left:0;" alt="Fork me on 
-GitHub"&gt;&lt;/a&gt;</textarea><br>
-                                          <img src="images/forkme_left_darkblue_121621.svg">
-            <textarea style="background-color: #eee;border:none;margin:5px;padding:10px;width:300px;height:129px;resize:none;">&lt;a
+GitHub"&gt;&lt;/a&gt;
+
+<img src="images/forkme_left_darkblue_121621.svg">
+
+&lt;a
  href="https://github.com/you"&gt;&lt;img 
 src="forkme_left_darkblue_121621.svg" 
 style="position:absolute;top:0;left:0;" alt="Fork me on 
-GitHub"&gt;&lt;/a&gt;</textarea><br>
-                                          <img src="images/forkme_left_orange_ff7600.svg">
-            <textarea style="background-color: #eee;border:none;margin:5px;padding:10px;width:300px;height:129px;resize:none;">&lt;a
+GitHub"&gt;&lt;/a&gt;
+
+<img src="images/forkme_left_orange_ff7600.svg">
+
+&lt;a
  href="https://github.com/you"&gt;&lt;img 
 src="forkme_left_orange_ff7600.svg" 
 style="position:absolute;top:0;left:0;" alt="Fork me on 
