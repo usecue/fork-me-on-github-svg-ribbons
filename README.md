@@ -1,4 +1,4 @@
-# SVG 'Fork me on GitHub' ribbons
+# 'Fork me on GitHub' SVG ribbons
 
 Fork me on GitHub ribbons (<a href="https://github.blog/2008-12-19-github-ribbons/">source</a>) in SVG format for retina displays.
 
