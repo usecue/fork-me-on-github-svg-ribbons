@@ -63,3 +63,5 @@ Fork me on GitHub ribbons (<a href="https://github.blog/2008-12-19-github-ribbon
     style="position:absolute;top:0;right:0;" alt="Fork me on GitHub"></a>
 
 You may download [github-ribbons.zip](https://tqdev.com/github-ribbons/github-ribbons.zip) containing this HTML page and all the SVG files.
+
+Note: this project is not sponsored or in any way endorsed by GitHub.
