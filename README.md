@@ -1,21 +1,9 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>GitHub Ribbons - TQdev.com</title>
-  <meta name="description" content="Fork me on GitHub ribbons in SVG format for retina displays - TQdev.com">
 <style>
 body {font-family: sans-serif; }
 h1 { font-size: 40px;}
 .single-column { max-width: 50em; margin: 0 auto;}
 </style>
 
-  </head>
-
-  <body>
-    <div class="single-column">
-      <article>
         <h1>GitHub Ribbons</h1>
         <p>Fork me on GitHub ribbons (<a href="https://github.blog/2008-12-19-github-ribbons/">source</a>) in SVG format for retina displays.</p>
                                                                           <img src="images/forkme_left_red_aa0000.svg">
@@ -90,7 +78,3 @@ src="forkme_right_white_ffffff.svg"
 style="position:absolute;top:0;right:0;" alt="Fork me on 
 GitHub"&gt;&lt;/a&gt;</textarea><br>
                           <p>You may download <a href="github-ribbons.zip">github-ribbons.zip</a> containing this HTML page and all the SVG files.</p>
-      </article>
-    </div>
-  
-</body></html>
